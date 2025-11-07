@@ -72,7 +72,7 @@
 import { Routes, Route, useLocation, Navigate } from "react-router-dom";
 import Signup from "./Pages/Signup";
 import Login from "./Pages/Login";
-import Dashboard from "./Pages/DashBoard";
+import Dashboard from "./Pages/Dashboard";
 import Room from "./Pages/Room";
 import PrivateRoute from "./components/PrivateRoute";
 import ForgotPassword from "./Pages/ForgotPassword";
