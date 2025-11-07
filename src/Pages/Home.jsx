@@ -82,7 +82,7 @@ export default function Home() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/yash-bisht-/ "
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
@@ -90,7 +90,7 @@ export default function Home() {
             LinkedIn
           </a>
           <a
-            href="mailto:support@vimeet.com"
+            href="mailto:whyrsuh711@gmail.com"
             className="hover:text-white transition"
           >
             Contact
